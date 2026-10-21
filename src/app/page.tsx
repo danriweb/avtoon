@@ -11,7 +11,7 @@ export const metadata: Metadata = {
     title: "Avtoon — IT-аутсорсинг для бизнеса",
     description:
       "Корпоративный лендинг компании Avtoon. Разработка программного обеспечения, IT-консалтинг и аутсорсинг для B2B-сегмента.",
-    images: [{ url: "/og-image.png", width: 1200, height: 630 }],
+    images: [{ url: "/opengraph-image.png", width: 1200, height: 630 }],
   },
   robots: {
     index: true,
