@@ -1,0 +1,7 @@
+export { default as AvtoonFooter } from './AvtoonFooter'
+export { default as AvtoonMini } from './AvtoonMini'
+export { default as Avtoon } from './Avtoon'
+export { default as Instagram } from './Instagram'
+export { default as Telegram } from './Telegram'
+export { default as Vkontakte } from './Vkontakte'
+export { default as Youtube } from './Youtube'
